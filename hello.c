@@ -13,7 +13,7 @@ int main(int argc, char **argv) {
   printf("Xavier Herman\n");
   printf("Electrical Engineering\n");
 
-    printf("Andrew McNally\n");
+  printf("Andrew McNally\n");
   printf("Computer Engineering\n");
   return 0;
 }
